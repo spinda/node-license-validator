@@ -1,6 +1,6 @@
 {
-  "name": "node-license-validator",
-  "version": "1.2.2",
+  "name": "@spinda/node-license-validator",
+  "version": "1.2.3",
   "description": "Validate the licenses of your dependencies against a list",
   "main": "index.js",
   "scripts": {
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/myndzi/node-license-validator.git"
+    "url": "git+https://github.com/spinda/node-license-validator.git"
   },
   "keywords": [
     "nlf",
@@ -24,9 +24,9 @@
   "author": "Kris Reeves",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/myndzi/node-license-validator/issues"
+    "url": "https://github.com/spinda/node-license-validator/issues"
   },
-  "homepage": "https://github.com/myndzi/node-license-validator#readme",
+  "homepage": "https://github.com/spinda/node-license-validator#readme",
   "dependencies": {
     "nlf": "^1.4.2",
     "npm-package-arg": "^4.2.0",
